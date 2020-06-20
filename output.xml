@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Inventory>
+    <Car>
+        <Year>2002</Year>
+        <Company>nissan </Company>
+        <Style>rougue</Style>
+        <Colour>red</Colour>
+        <Mileage>2500</Mileage>
+    </Car>
+    <Car>
+        <Year>2002</Year>
+        <Company>toyota</Company>
+        <Style>rougue</Style>
+        <Colour>red</Colour>
+        <Mileage>2500</Mileage>
+    </Car>
+</Inventory>
